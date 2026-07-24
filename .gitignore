@@ -1,0 +1,12 @@
+# Arduino build outputs
+*.hex
+*.elf
+*.bin
+
+# Temporary build folders
+/build/
+/Output/
+
+# System / OS generated files
+.DS_Store
+Thumbs.db
